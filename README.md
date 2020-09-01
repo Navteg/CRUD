@@ -1,9 +1,9 @@
-# pip install -r requirements
+ pip install -r requirements
 
-# python manage.py migrate
+ python manage.py migrate
 
-# python manage.py makemigrations
+ python manage.py makemigrations
 
-# python manage.py migrate
+ python manage.py migrate
 
-# python manage.py runserver
+ python manage.py runserver
